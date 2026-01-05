@@ -4,8 +4,6 @@ title: Ziyu (Tim) Wang
 permalink: /
 ---
 
-# Ziyu (Tim) Wang
-
 PhD Candidate in Finance  
 University of Melbourne  
 
