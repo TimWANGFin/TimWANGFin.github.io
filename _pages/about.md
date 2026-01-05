@@ -1,4 +1,8 @@
-
+---
+layout: single
+title: Ziyu (Tim) Wang
+permalink: /
+---
 
 # Ziyu (Tim) Wang
 
